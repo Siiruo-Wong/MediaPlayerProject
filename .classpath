@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/TransluentPanel.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-3.0.1.jar" sourcepath="lib/vlcj-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jave-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
